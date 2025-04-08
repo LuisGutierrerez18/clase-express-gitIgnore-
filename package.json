@@ -1,0 +1,23 @@
+{
+  "name": "clase-express-gitignore-",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGutierrerez18/clase-express-gitIgnore-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisGutierrerez18/clase-express-gitIgnore-/issues"
+  },
+  "homepage": "https://github.com/LuisGutierrerez18/clase-express-gitIgnore-#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
