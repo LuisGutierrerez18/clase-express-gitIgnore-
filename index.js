@@ -47,6 +47,10 @@ app.post('/form_method',(req,res)=>{
     const imprimir = req.body.imprimir;
     console.log(imprimir);
 
+    for(let i = 0; i < indice; i++){
+        console.log(imprimir);
+    }
+
     res.setHeader('Content-type','application/json');
     res.statusCode = 200;
     res.write('{code:200, msg:"Ok POST}');
